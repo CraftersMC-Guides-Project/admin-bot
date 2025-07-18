@@ -1,0 +1,345 @@
+[
+    {
+        "id": "701",
+        "name": "Rabbit Pet",
+        "picture": "img/Rabbit_Pet.webp",
+        "category": "Pets",
+        "rarity": [
+            "common",
+            "uncommon",
+            "rare",
+            "epic",
+            "legendary"
+        ],
+        "description": "OG pet, best for beginners super helpful! Just AFK on your island with the Legendary version to boost speed of farming minions.",
+        "nature": "[UNDERPAID]",
+        "demand": "[4/10]"
+    },
+    {
+        "id": "702",
+        "name": "Elephant Pet",
+        "picture": "img/pets/Elephant_Pet.webp",
+        "category": "Pets",
+        "rarity": [
+            "common",
+            "uncommon",
+            "rare",
+            "epic",
+            "legendary"
+        ],
+        "description": "Elephant Pet can be bought from Creedon (NPC) during the Traveling Zoo event.",
+        "nature": "[STABLE]",
+        "demand": "[6/10]"
+    },
+    {
+        "id": "703",
+        "name": "Bee Pet",
+        "picture": "img/pets/Bee_Pet.webp",
+        "category": "Pets",
+        "rarity": [
+            "common",
+            "uncommon",
+            "rare",
+            "epic",
+            "legendary"
+        ],
+        "description": "Bee Pet can be bought from Buzz (NPC).",
+        "nature": "[UNDERPAID]",
+        "demand": "[2/10]"
+    },
+    {
+        "id": "704",
+        "name": "Silverfish Pet",
+        "picture": "img/pets/300px-Silverfish_Pet.webp",
+        "category": "Pets",
+        "rarity": [
+            "common",
+            "uncommon",
+            "rare",
+            "epic",
+            "legendary"
+        ],
+        "description": "Silverfish is a Mining pet. It requires 64x Enchanted Cobblestone and Enchanted duck egg/Super Enchanted duck egg to craft.",
+        "nature": "[STABLE]",
+        "demand": "[6/10]"
+    },
+    {
+        "id": "705",
+        "name": "Rock pet",
+        "picture": "img/pets/300px-Rock_Pet.webp",
+        "category": "Pets",
+        "rarity": [
+            "common",
+            "uncommon",
+            "rare",
+            "epic",
+            "legendary"
+        ],
+        "description": "Rock Pet can be obtained and upgraded by mining stones or ores.",
+        "nature": "[STABLE]",
+        "demand": "[8/10]"
+    },
+    {
+        "id": "706",
+        "name": "Wither Skeleton Pet",
+        "picture": "img/pets/Wither_Skeleton_Pet.webp",
+        "category": "Pets",
+        "rarity": [
+            "common",
+            "uncommon",
+            "rare",
+            "epic",
+            "legendary"
+        ],
+        "description": "Wither Skeleton Pet is a Mining pet. It requires 8x Enchanted Coal Blocks and Enchanted duck egg/Super Enchanted duck egg to craft.",
+        "nature": "[OVERPAID]",
+        "demand": "[4/10]"
+    },
+    {
+        "id": "707",
+        "name": "Blaze Pet",
+        "picture": "img/pets/Blaze_Pet.png",
+        "category": "Pets",
+        "rarity": [
+            "common",
+            "uncommon",
+            "rare",
+            "epic",
+            "legendary"
+        ],
+        "description": "Blaze pet is a Combat pet. It requires 64x Enchanted Blaze Rod and Enchanted duck egg/Super Enchanted duck egg to craft.",
+        "nature": "[UNDERPAID]",
+        "demand": "[7/10]"
+    },
+    {
+        "id": "708",
+        "name": "Pigman Pet",
+        "picture": "img/pets/Pigman_Pet.webp",
+        "category": "Pets",
+        "rarity": [
+            "common",
+            "uncommon",
+            "rare",
+            "epic",
+            "legendary"
+        ],
+        "description": "Its recipe unlock at Raw Porkchop 8 and it required (x1 Super Enchanted duck egg \u00d78 Enchanted cooked porkchop) to craft and this was a Combat pet.",
+        "nature": "[STABLE]",
+        "demand": "[5/10]"
+    },
+    {
+        "id": "709",
+        "name": "Slime Sheep Pet",
+        "picture": "img/pets/Slime_Sheep_Pet.webp",
+        "category": "Pets",
+        "rarity": [
+            "epic",
+            "legendary"
+        ],
+        "description": "Slime Sheep Pet can be dropped from Slime Sheep.",
+        "nature": "[OVERPAID]",
+        "demand": "[3/10]"
+    },
+    {
+        "id": "710",
+        "name": "Spider Pet",
+        "picture": "img/pets/Spider_Pet.webp",
+        "category": "Pets",
+        "rarity": [
+            "common",
+            "uncommon",
+            "rare",
+            "epic",
+            "legendary"
+        ],
+        "description": "Its recipe unlock at String 9\u00a0 and it required (x1 Super Enchanted duck egg x512 Enchanted string) to craft and this was a Combat pet.",
+        "nature": "[STABLE]",
+        "demand": "[6/10]"
+    },
+    {
+        "id": "711",
+        "name": "Wolf Pet",
+        "picture": "img/pets/Wolf_Pet.webp",
+        "category": "Pets",
+        "rarity": [
+            "common",
+            "uncommon",
+            "rare",
+            "epic",
+            "legendary"
+        ],
+        "description": "Its recipe unlock at Spruce Log 8 and it required (x1 Super Enchanted duck egg x512 Enchanted spruce log) craft and this was a Combat pet.",
+        "nature": "[UNDERPAID]",
+        "demand": "[5/10]"
+    },
+    {
+        "id": "712",
+        "name": "Eye of the Cliffs Pet",
+        "picture": "img/Eye_of_the_Cliffs_Pet.webp",
+        "category": "Pets",
+        "rarity": [
+            "epic",
+            "legendary"
+        ],
+        "description": "Eye of the Cliffs Pet can be dropped from the mob Eye of the Cliffs.",
+        "nature": "[OVERPAID]",
+        "demand": "[6/10]"
+    },
+    {
+        "id": "713",
+        "name": "Skeleton Pet",
+        "picture": "img/pets/Skeleton_Pet.png",
+        "category": "Pets",
+        "rarity": [
+            "common",
+            "uncommon",
+            "rare",
+            "epic",
+            "legendary"
+        ],
+        "description": "Its recipe unlock at Bone 6 and it required (x1 Super Enchantedduck egg x128 Enchanted bone) to craft and this was a Combat pet.",
+        "nature": "[STABLE]",
+        "demand": "[4/10]"
+    },
+    {
+        "id": "714",
+        "name": "Tiger Pet",
+        "picture": "img/pets/300px-Tiger_Pet.webp",
+        "category": "Pets",
+        "rarity": [
+            "common",
+            "uncommon",
+            "rare",
+            "epic",
+            "legendary"
+        ],
+        "description": "Tiger Pet can be bought from Creedon during the Traveling Zoo event.",
+        "nature": "[UNDERPAID]",
+        "demand": "[7/10]"
+    },
+    {
+        "id": "715",
+        "name": "Zombie Pet",
+        "picture": "img/pets/Zombie_Pet.webp",
+        "category": "Pets",
+        "rarity": [
+            "common",
+            "uncommon",
+            "rare",
+            "epic",
+            "legendary"
+        ],
+        "description": "Zombie Pet is a Combat Pet. It requires 64x Enchanted Rotten Flesh and Enchanted duck egg/Super Enchanted duck egg to craft.",
+        "nature": "[STABLE]",
+        "demand": "[5/10]"
+    },
+    {
+        "id": "716",
+        "name": "Ghoul Pet",
+        "picture": "img/pets/Ghoul_Pet.png",
+        "category": "Pets",
+        "rarity": [
+            "common",
+            "uncommon",
+            "rare",
+            "epic",
+            "legendary"
+        ],
+        "description": "Ghoul Pet is a Combat pet. It is dropped from the mob Crypt Ghoul.",
+        "nature": "[STABLE]",
+        "demand": "[4/10]"
+    },
+    {
+        "id": "717",
+        "name": "Phoenix Pet",
+        "picture": "img/pets/Phoenix_Pet.webp",
+        "category": "Pets",
+        "rarity": [
+            "epic",
+            "legendary"
+        ],
+        "description": "Phoenix Pet can be dropped from any mob in the Skyline Village and has a Very low drop Chance.",
+        "nature": "[OVERPAID]",
+        "demand": "[10/10]"
+    },
+    {
+        "id": "718",
+        "name": "Giraffe Pet",
+        "picture": "img/pets/Giraffe_Pet.webp",
+        "category": "Pets",
+        "rarity": [
+            "common",
+            "uncommon",
+            "rare",
+            "epic",
+            "legendary"
+        ],
+        "description": "Giraffe is a Foraging Pet. It can be bought from Creedon (NPC) during the Travelling zoo event.",
+        "nature": "[STABLE]",
+        "demand": "[3/10]"
+    },
+    {
+        "id": "719",
+        "name": "Lion Pet",
+        "picture": "img/pets/300px-Lion_Pet.webp",
+        "category": "Pets",
+        "rarity": [
+            "common",
+            "uncommon",
+            "rare",
+            "epic",
+            "legendary"
+        ],
+        "description": "Lion Pet can be purchased from Creedon (NPC) during the Traveling Zoo event.",
+        "nature": "[UNDERPAID]",
+        "demand": "[3/10]"
+    },
+    {
+        "id": "720",
+        "name": "Monkey Pet",
+        "picture": "img/pets/Monkey_Pet.webp",
+        "category": "Pets",
+        "rarity": [
+            "common",
+            "uncommon",
+            "rare",
+            "epic",
+            "legendary"
+        ],
+        "description": "Monkey Pet can be purchased from Creedon (NPC) during the Traveling Zoo event.",
+        "nature": "[STABLE]",
+        "demand": "[6/10]"
+    },
+    {
+        "id": "721",
+        "name": "Ocelot Pet",
+        "picture": "img/pets/300px-Ocelot_Pet.webp",
+        "category": "Pets",
+        "rarity": [
+            "common",
+            "uncommon",
+            "rare",
+            "epic",
+            "legendary"
+        ],
+        "description": "Ocelot Pet is a Foraging Pet. It requires 512x Enchanted Jungle Log and Enchanted duck egg/ Super enchanted duck egg to craft.",
+        "nature": "[UNDERPAID]",
+        "demand": "[4/10]"
+    },
+    {
+        "id": "22",
+        "name": "Silverfish Pet( Party Bug )",
+        "picture": "img/pets/120px-Party_Bug_Silverfish_Pet_Skin_(Animation).gif",
+        "category": "Pets",
+        "rarity": [
+            "common",
+            "uncommon",
+            "rare",
+            "epic",
+            "legendary"
+        ],
+        "description": "A special pet with skin (party bug skin),Given to the people for 3rd year anniversary.",
+        "nature": "[STABLE]",
+        "demand": "[4/10]"
+    }
+]

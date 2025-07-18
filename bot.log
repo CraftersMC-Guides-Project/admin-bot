@@ -1,0 +1,31 @@
+2025-04-14 11:34:09,948 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-14 11:34:09,955 - discord.client - INFO - logging in using static token
+2025-04-14 11:34:16,384 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-14 11:34:16,389 - discord.client - INFO - logging in using static token
+2025-04-14 11:43:08,332 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-14 11:43:08,340 - discord.client - INFO - logging in using static token
+2025-04-14 11:43:09,243 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 6a58596ed4010246bb99c66e9b52ed08).
+2025-04-14 11:43:11,849 - __main__ - INFO - Bot is ready as CraftersMC Guides Management#6008
+2025-04-14 11:43:41,892 - discord.ext.commands.bot - ERROR - Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "ac" is not found
+2025-04-14 12:11:31,436 - discord.ext.commands.bot - ERROR - Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "um" is not found
+2025-04-14 12:11:47,918 - discord.ext.commands.bot - ERROR - Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "smc" is not found
+2025-04-14 12:49:09,560 - discord.gateway - INFO - Shard ID None has successfully RESUMED session 6a58596ed4010246bb99c66e9b52ed08.
+2025-04-14 13:30:28,680 - discord.ext.commands.bot - ERROR - Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "um" is not found
+2025-04-14 14:44:15,820 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-14 14:44:15,825 - discord.client - INFO - logging in using static token
+2025-04-14 14:44:16,549 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 5552c0492c195ae609956b02080524f1).
+2025-04-14 14:44:18,605 - __main__ - INFO - Bot is ready as CraftersMC Guides Management#6008
+2025-04-14 14:46:20,172 - discord.ext.commands.bot - ERROR - Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "smc/.seemarketchanges" is not found
+2025-04-14 14:46:49,474 - discord.ext.commands.bot - ERROR - Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "sc/.seechanges" is not found
+2025-04-14 14:50:09,378 - discord.ext.commands.bot - ERROR - Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "." is not found
+2025-04-14 15:05:00,405 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-14 15:05:00,421 - discord.client - INFO - logging in using static token
+2025-04-14 15:05:01,418 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 309b960a3e38c438970bb70ff0bc4141).
+2025-04-14 15:05:03,580 - __main__ - INFO - Bot is ready as CraftersMC Guides Management#6008

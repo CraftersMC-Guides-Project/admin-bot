@@ -1,0 +1,371 @@
+[
+    {
+        "id": 601,
+        "name": "Wheat Minion",
+        "picture": "img/wheat-minion/Wheat_Minion.png",
+        "category": "Farming",
+        "description": "This Minion produces Wheat and Wheat seeds. When upgraded give 11 unique slot for upgrading minion slots",
+        "nature": "[UNDERPRICE]",
+        "demand": "[2/10]"
+    },
+    {
+        "id": 602,
+        "name": "Carrot Minion",
+        "picture": "img/carrot-minion/Carrot_Minion.png",
+        "category": "Farming",
+        "description": "This Minion produces Carrot. When upgraded give 11 unique slot for upgrading minion slots",
+        "nature": "[STABLE]",
+        "demand": "[4/10]"
+    },
+    {
+        "id": 603,
+        "name": "Potato Minion",
+        "picture": "img/potato-minion/Potato_Minion.png",
+        "category": "Farming",
+        "description": "This Minion produces Potato. When upgraded give 11 unique slot for upgrading minion slots",
+        "nature": "[STABLE]",
+        "demand": "[7/10]"
+    },
+    {
+        "id": 604,
+        "name": "Pumpkin Minion",
+        "picture": "img/pumpkin-minion/Pumpkin_Minion_(Tier_11).png",
+        "category": "Farming",
+        "description": "This Minion produces Pumpkin. When upgraded give 11 unique slot for upgrading minion slots",
+        "nature": "[STABLE]",
+        "demand": "[5/10]"
+    },
+    {
+        "id": 605,
+        "name": "Melon Minion",
+        "picture": "img/melon-minion/Melon_Minion_(Tier_11).png",
+        "category": "Farming",
+        "description": "This Minion produces Melons. When upgraded give 11 unique slot for upgrading minion slots",
+        "nature": "[STABLE]",
+        "demand": "[5/10]"
+    },
+    {
+        "id": 606,
+        "name": "Mushroom Minions",
+        "picture": "img/mushroom-minion/Mushroom_Minion.png",
+        "category": "Farming",
+        "description": "This Minion produces Mushrooms either red or brown. When upgraded give 11 unique slot for upgrading minion slots",
+        "nature": "[UNDERPAID]",
+        "demand": "[4/10]"
+    },
+    {
+        "id": 607,
+        "name": "Cocoa Minion",
+        "picture": "img/cocoa-minion/Cocoa_Beans_Minion_(Tier_11).png",
+        "category": "Farming",
+        "description": "This Minion produces Cocoa beans. When upgraded give 11 unique slot for upgrading minion slots",
+        "nature": "[STABLE]",
+        "demand": "[5/10]"
+    },
+    {
+        "id": 608,
+        "name": "Cactus Minion",
+        "picture": "img/cactus-minion/Cactus_Minion_(Tier_11).png",
+        "category": "Farming",
+        "description": "This Minion produces Cactus. When upgraded give 11 unique slot for upgrading minion slots",
+        "nature": "[UNDERPAID]",
+        "demand": "[2/10]"
+    },
+    {
+        "id": 609,
+        "name": "Sugarcane Minion",
+        "picture": "img/sugarcane-minion/Sugar_Cane_Minion.png",
+        "category": "Farming",
+        "description": "This Minion produces Sugarcane. When upgraded give 11 unique slot for upgrading minion slots",
+        "nature": "[STABLE]",
+        "demand": "[5/10]"
+    },
+    {
+        "id": 610,
+        "name": "Cow minion",
+        "picture": "img/cow-minion/Cow_Minion.png",
+        "category": "Farming",
+        "description": "This Minion produces Raw beef and leather. When upgraded give 11 unique slot for upgrading minion slots",
+        "nature": "[OVERPAID]",
+        "demand": "[3/10]"
+    },
+    {
+        "id": 611,
+        "name": "Pig Minion",
+        "picture": "img/pig-minion/50px-Pig_Minion_(Tier_11).png",
+        "category": "Farming",
+        "description": "This Minion produces Raw pork chop. When upgraded give 11 unique slot for upgrading minion slots",
+        "nature": "[STABLE]",
+        "demand": "[7/10]"
+    },
+    {
+        "id": 612,
+        "name": "Chicken Minion",
+        "picture": "img/chicken-minion/Chicken_Minion_(Tier_11).png",
+        "category": "Farming",
+        "description": "This Minion produces Raw chicken and feather. When upgraded give 11 unique slot for upgrading minion slots",
+        "nature": "[STABLE]",
+        "demand": "[6/10]"
+    },
+    {
+        "id": 613,
+        "name": "Sheep Minion",
+        "picture": "img/sheep-minion/Sheep_Minion_(Tier_11).png",
+        "category": "Farming",
+        "description": "This Minion produces Raw mutton and white whool. When upgraded give 11 unique slot for upgrading minion slots",
+        "nature": "[OVERPAID]",
+        "demand": "[2/10]"
+    },
+    {
+        "id": 614,
+        "name": "Rabbit Minion",
+        "picture": "img/rabbit-minion/Rabbit_Minion.png",
+        "category": "Farming",
+        "description": "This Minion produces Raw rabbit , Rabbit hide and Rabbit foot. When upgraded give 11 unique slot for upgrading minion slots",
+        "nature": "[OVERPAID]",
+        "demand": "[8/10]"
+    },
+    {
+        "id": 615,
+        "name": "Duck Minion",
+        "picture": "img/duck-minion/Duck_Minion.png",
+        "category": "Farming",
+        "description": "This Minion produces Raw duck and duck egg. When upgraded give 11 unique slot for upgrading minion slots",
+        "nature": "[STABLE]",
+        "demand": "[5/10]"
+    },
+    {
+        "id": 616,
+        "name": "Beetroot Minion",
+        "picture": "img/beetroot-minion/Beetroot_Minion_(Tier_11).png",
+        "category": "Farming",
+        "description": "This Minion produces Beetroot. When upgraded give 11 unique slot for upgrading minion slots",
+        "nature": "[UNDERPAID]",
+        "demand": "[4/10]"
+    },
+    {
+        "id": 617,
+        "name": "Cobblestone Minion",
+        "picture": "img/cobblestone-minion/Cobblestone_Minion.png",
+        "category": "Mining",
+        "description": "This Minion produces Cobblestone. When upgraded give 11 unique slot for upgrading minion slots",
+        "nature": "[STABLE]",
+        "demand": "[6/10]"
+    },
+    {
+        "id": 618,
+        "name": "Coal Minion",
+        "picture": "img/coal-minion/Coal_Minion_(Tier_11).png",
+        "category": "Mining",
+        "description": "This Minion produces Coal. When upgraded give 11 unique slot for upgrading minion slots",
+        "nature": "[STABLE]",
+        "demand": "[6/10]"
+    },
+    {
+        "id": 619,
+        "name": "Iron Minion",
+        "picture": "img/iron-minion/Iron_Minion.png",
+        "category": "Mining",
+        "description": "This Minion produces Iron Ingot. When upgraded give 11 unique slot for upgrading minion slots",
+        "nature": "[underpaid]",
+        "demand": "[5/10]"
+    },
+    {
+        "id": 620,
+        "name": "Gold Minion",
+        "picture": "img/gold-minion/Gold_Minion_(Tier_11).png",
+        "category": "Mining",
+        "description": "This Minion produces Gold Ingot. When upgraded give 11 unique slot for upgrading minion slots",
+        "nature": "[STABLE]",
+        "demand": "[5/10]"
+    },
+    {
+        "id": 621,
+        "name": "Diamond Minion",
+        "picture": "img/diamond-minion/Diamond_Minion_(Tier_11).png",
+        "category": "Mining",
+        "description": "This Minion produces Diamond. When upgraded give 11 unique slot for upgrading minion slots",
+        "nature": "[STABLE]",
+        "demand": "[6/10]"
+    },
+    {
+        "id": 622,
+        "name": "Lapis Lazuli Minion",
+        "picture": "img/lapis-minion/Lapis_Lazuli_Minion_(Tier_11).png",
+        "category": "Mining",
+        "description": "This Minion produces Lapis. When upgraded give 11 unique slot for upgrading minion slots",
+        "nature": "[UNDERPAID]",
+        "demand": "[3/10]"
+    },
+    {
+        "id": 623,
+        "name": "Emerald Minion",
+        "picture": "img/emerald-minion/Emerald_Minion_(Tier_11).png",
+        "category": "Mining",
+        "description": "This Minion produces Emerald. When upgraded give 11 unique slot for upgrading minion slots",
+        "nature": "[STABLE]",
+        "demand": "[3/10]"
+    },
+    {
+        "id": 624,
+        "name": "Redstone Minion",
+        "picture": "img/redstone-minion/Redstone_Minion_(Tier_11).png",
+        "category": "Mining",
+        "description": "This Minion produces Redstone. When upgraded give 11 unique slot for upgrading minion slots",
+        "nature": "[STABLE]",
+        "demand": "[7/10]"
+    },
+    {
+        "id": 625,
+        "name": "Obsidian Minion",
+        "picture": "img/obsidian-minion/Obsidian_Minion_(Tier_11).png",
+        "category": "Mining",
+        "description": "This Minion produces Obsidian. When upgraded give 11 unique slot for upgrading minion slots",
+        "nature": "[OVERPAID]",
+        "demand": "[5/10]"
+    },
+    {
+        "id": 626,
+        "name": "Ice Minion",
+        "picture": "img/ice-minion/Ice_Minion_(Tier_11).png",
+        "category": "Mining",
+        "description": "This Minion produces Ice. When upgraded give 11 unique slot for upgrading minion slots",
+        "nature": "[UNDERPAID]",
+        "demand": "[4/10]"
+    },
+    {
+        "id": 627,
+        "name": "Zombie Minion",
+        "picture": "img/zombie-minion/Zombie_Minion_(Tier_11).png",
+        "category": "Combat",
+        "description": "This Minion produces Rotten Flesh. When upgraded give 11 unique slot for upgrading minion slots",
+        "nature": "[UNDERPAID]",
+        "demand": "[2/10]"
+    },
+    {
+        "id": 628,
+        "name": "Skeleton Minion",
+        "picture": "img/skeleton-minion/Skeleton_Minion_(Tier_11).png",
+        "category": "Combat",
+        "description": "This Minion produces Bone. When upgraded give 11 unique slot for upgrading minion slots",
+        "nature": "[STABLE]",
+        "demand": "[5/10]"
+    },
+    {
+        "id": 629,
+        "name": "Spider Minion",
+        "picture": "img/spider-minion/Spider_Minion_(Tier_11).png",
+        "category": "Combat",
+        "description": "This Minion produces String and Spider eye. When upgraded give 11 unique slot for upgrading minion slots",
+        "nature": "[OVERPAID]",
+        "demand": "[8/10]"
+    },
+    {
+        "id": 630,
+        "name": "Cave Spider Minion",
+        "picture": "img/cave-spider-minion/Cave_Spider_Minion_(Tier_11).png",
+        "category": "Combat",
+        "description": "This Minion produces String and Spider eye. When upgraded give 11 unique slot for upgrading minion slots",
+        "nature": "[STABLE]",
+        "demand": "[2/10]"
+    },
+    {
+        "id": 631,
+        "name": "Creeper Minion",
+        "picture": "img/creeper-minion/Creeper_Minion_(Tier_11).png",
+        "category": "Combat",
+        "description": "This Minion produces Gun Powder. When upgraded give 11 unique slot for upgrading minion slots",
+        "nature": "[OVERPAID]",
+        "demand": "[5/10]"
+    },
+    {
+        "id": 632,
+        "name": "Slime Minion",
+        "picture": "img/slime-minion/Slime_Minion_(Tier_11).png",
+        "category": "Combat",
+        "description": "This Minion produces Slime. When upgraded give 11 unique slot for upgrading minion slots",
+        "nature": "[STABLE]",
+        "demand": "[4/10]"
+    },
+    {
+        "id": 633,
+        "name": "Blaze Minion",
+        "picture": "img/blaze-minion/Blaze_Minion_(Tier_11).png",
+        "category": "Combat",
+        "description": "This Minion produces Blaze rod. When upgraded give 11 unique slot for upgrading minion slots",
+        "nature": "[STABLE]",
+        "demand": "[5/10]"
+    },
+    {
+        "id": 634,
+        "name": "Magma Cube Minion",
+        "picture": "img/magma-minion/Magma_Cube_Minion_(Tier_11).png",
+        "category": "Combat",
+        "description": "This Minion produces Magma Cream. When upgraded give 11 unique slot for upgrading minion slots",
+        "nature": "[STABLE]",
+        "demand": "[8/10]"
+    },
+    {
+        "id": 635,
+        "name": "Oak Log Minion",
+        "picture": "img/oak-minion/Oak_Log_Minion_(Tier_11).png",
+        "category": "Foraging",
+        "description": "This Minion produces Oak log. When upgraded give 11 unique slot for upgrading minion slots",
+        "nature": "[UNDERPAID]",
+        "demand": "[4/10]"
+    },
+    {
+        "id": 636,
+        "name": "Spruce Log Minion",
+        "picture": "img/spruce-minion/Spruce_Log_Minion_(Tier_11).png",
+        "category": "Foraging",
+        "description": "This Minion produces Spruce Log. When upgraded give 11 unique slot for upgrading minion slots",
+        "nature": "[OVERPAID]",
+        "demand": "[3/10]"
+    },
+    {
+        "id": 637,
+        "name": "Birch Log Minion",
+        "picture": "img/birch-minion/Birch_Log_Minion_(Tier_11).png",
+        "category": "Foraging",
+        "description": "This Minion produces Birch Log. When upgraded give 11 unique slot for upgrading minion slots",
+        "nature": "[STABLE]",
+        "demand": "[2/10]"
+    },
+    {
+        "id": 638,
+        "name": "Dark Oak Log Minion",
+        "picture": "img/dark-oak-minion/Dark_Oak_Log_Minion_(Tier_11).png",
+        "category": "Foraging",
+        "description": "This Minion produces Dark Oak Log. When upgraded give 11 unique slot for upgrading minion slots",
+        "nature": "[UNDERPAID]",
+        "demand": "[5/10]"
+    },
+    {
+        "id": 639,
+        "name": "Acacia Log Minion",
+        "picture": "img/acacia-minion/Acacia_Log_Minion_(Tier_11).png",
+        "category": "Foraging",
+        "description": "This Minion produces Acacia Log. When upgraded give 11 unique slot for upgrading minion slots",
+        "nature": "[STABLE]",
+        "demand": "[3/10]"
+    },
+    {
+        "id": 640,
+        "name": "Jungle Log Minion",
+        "picture": "img/jungle-minion/Jungle_Log_Minion_(Tier_11).png",
+        "category": "Foraging",
+        "description": "This Minion produces Jungle Log. When upgraded give 11 unique slot for upgrading minion slots",
+        "nature": "[UNDERPAID]",
+        "demand": "[2/10]"
+    },
+    {
+        "id": 641,
+        "name": "Revenant Minion",
+        "picture": "img/revenant-minion/Revenant_Minion_(Tier_11).png",
+        "category": "slayer",
+        "description": "This Minion produces Rotten flesh. When upgraded give 11 unique slot for upgrading minion slots",
+        "nature": "[STABLE]",
+        "demand": "[5/10]"
+    }
+]
