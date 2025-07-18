@@ -12,30 +12,28 @@ import asyncio
 from collections import defaultdict
 from difflib import get_close_matches
 from typing import Optional
+import os
+from dotenv import load_dotenv
+load_dotenv()
 
 USER_GITHUB_TOKENS = {
-    947868777528307742: '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',  # PG
-    #1334835742047731733: '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', #Sagnik with Main acc token
-    #1032668335135019029: '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', #Ghosty with Main acc token
-    845690488752832522: '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',  # Aakash
-    783972385882767400: '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', # dev
-    992284684425904168: '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',  # SAMA
-    1099047739209293944: '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', # techon
-    909654814651195423: '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', # dipanshu with main acc token
-    878545726014107698: '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', # edu with main acc token
-    994249322667450460: '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', # someone i forgot the name of
-    #1090560686083559545: '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', # Promanhlo with main acc token
-    #931065234762907668: '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', # CRAFTER32ON with main acc token
-    #1371433389055541258: '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', # rosewood with main acc token
-    1275833464981032970: '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', # lcky with main acc token
-    1224733916213284864: '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', # LeGeNDGAMINGxBx with main acc token
-    1178800421926608949: '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', # Radthunder21 with main acc token
+    947868777528307742: os.environ.get('GITHUB_TOKEN_DEFAULT'),
+    845690488752832522: os.environ.get('GITHUB_TOKEN_DEFAULT'),
+    783972385882767400: os.environ.get('GITHUB_TOKEN_DEFAULT'),
+    992284684425904168: os.environ.get('GITHUB_TOKEN_DEFAULT'),
+    1099047739209293944: os.environ.get('GITHUB_TOKEN_DEFAULT'),
+    909654814651195423: os.environ.get('GITHUB_TOKEN_DEFAULT'),
+    878545726014107698: os.environ.get('GITHUB_TOKEN_DEFAULT'),
+    1275833464981032970: os.environ.get('GITHUB_TOKEN_DEFAULT'),
+    1224733916213284864: os.environ.get('GITHUB_TOKEN_DEFAULT'),
+    1178800421926608949: os.environ.get('GITHUB_TOKEN_DEFAULT'),
+    # ...add more as needed
 }
 
-GITHUB_TOKEN = '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'
+GITHUB_TOKEN = os.environ.get('GITHUB_TOKEN_DEFAULT')
 
-TOKEN = 'MTM5MzQzNzkxNjkxODg0NTUzMg.GOpeue.4wtXO2_8fDZv7WikhDywKc25u4FvPRGJWqslVQ'
-webhook_url = "https://discord.com/api/webhooks/1370789767155023882/HzjZZHZSrQWBY0GM9UKpVFRqM7XjypWu4H_m73jwx2xbdq2eLRuwo4PcTgp9V94UK3fe"
+TOKEN = os.environ.get('BOT_TOKEN')
+webhook_url = os.environ.get('WEBHOOK_URL')
 REPO = 'CraftersMC-Guides-Project/guides-code'
 FILE_PATH = 'market/mprices.txt'
 MARKET_FILE_PATH = 'market/market.txt'

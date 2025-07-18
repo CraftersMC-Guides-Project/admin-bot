@@ -18,5 +18,5 @@ fi
 
 
 
-cd "$REPO_DIR"
-python3 bot-v11.py # OR python (file) Just use whatever you use to start your bot
+cd $REPO_DIR && pip install -r requirements.txt
+python bot-v11.py # OR python (file) Just use whatever you use to start your bot
