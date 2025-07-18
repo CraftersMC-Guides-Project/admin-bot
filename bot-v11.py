@@ -27,6 +27,7 @@ USER_GITHUB_TOKENS = {
     1275833464981032970: os.environ.get('GITHUB_TOKEN_DEFAULT'),
     1224733916213284864: os.environ.get('GITHUB_TOKEN_DEFAULT'),
     1178800421926608949: os.environ.get('GITHUB_TOKEN_DEFAULT'),
+    994249322667450460: os.environ.get('GITHUB_TOKEN_DEFAULT'),
     # ...add more as needed
 }
 
