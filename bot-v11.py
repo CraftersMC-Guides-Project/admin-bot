@@ -117,12 +117,14 @@ ABBREVIATIONS = {
     "ench": "enchanted",
     "green": "grean",
     "cobble": "cobblestone",
-    "op": "OVERPRICE",
+    "op": "OVERPAID",
     "st": "STABLE",
-    "up": "UNDERPRICE",
-    "overprice": "OVERPRICE",
+    "up": "UNDERPAID",
+    "overprice": "OVERPAID",
     "stable": "STABLE",
-    "underprice": "UNDERPRICE",
+    "underprice": "UNDERPAID",
+    "overpaid": "OVERPAID",
+    "underpaid": "UNDERPAID",
 }
 
 def expand_abbreviations(text: str) -> str:
